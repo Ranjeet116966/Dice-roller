@@ -6,6 +6,6 @@ I build it just for the learning purpose.
 
 Technologies Used
 
-1 - Kotlin
+1 - Kotlin  
 2 - XML
 
